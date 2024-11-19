@@ -1,0 +1,1 @@
+This project is licensed GPL v3.0 however If we meet some day, and you think this stuff is worth it, you can buy me a beer in return. Pls credit ;)
